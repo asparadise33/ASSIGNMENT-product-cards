@@ -1,0 +1,10 @@
+
+.productcards {
+ display: flex;
+ flex-direction: row;
+}
+
+
+#avail {
+  border: 2px solid olivedrab;
+}
