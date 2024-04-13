@@ -4,7 +4,44 @@
  flex-direction: row;
 }
 
+#socktaco{
+  border: 1px solid lightblue;
+  text-align: center;
+}
+
+#sockdog{
+  border: 1px solid lightblue; 
+  text-align: center;
+}
+
+#sockplant{
+  border: 1px solid lightblue;
+  text-align: center;
+}
+
+#taco {
+  justify-content: center;
+}
+#dog {
+  justify-content: center;
+}
+#plant {
+  justify-content: center;
+}
+.card-text{
+justify-content: center;
+}
 
 #avail {
-  border: 2px solid olivedrab;
+  background-color: darkgray;
+  color:yellow
+  
+}
+
+.specs{
+  font-weight: bold;
+}
+
+.pricing {
+  font-weight: bold;
 }
